@@ -1,0 +1,46 @@
+[
+       { 
+            "departureCity" : "ORD",
+            "destinationCity" : "NYC",
+            "departureDateTime" : "2019-10-15T20:00:00.000Z",
+            "flight_number" : "1234",
+            "airline" : "United Airlines",
+            "airlineCode" : "UA",
+            "gate": 24
+       },
+       { 
+            "departureCity" : "MEX",
+            "destinationCity" : "NYC",
+            "departureDateTime" : "2019-10-16T20:00:00.000Z",
+            "flight_number" : "4332",
+            "airline" : "Delta Airlines",
+            "airlineCode" : "DA",
+            "gate": 33
+       },
+       { 
+            "departureCity" : "ORD",
+            "destinationCity" : "LAX",
+            "departureDateTime" : "2019-10-15T21:00:00.000Z",
+            "flight_number" : "1234",
+            "airline" : "Crazy Clown Airlines",
+            "airlineCode" : "CCA",
+            "gate": 76
+       },
+       { 
+            "departureCity" : "SEA",
+            "destinationCity" : "IAH",
+            "departureDateTime" : "2019-10-17T20:00:00.000Z",
+            "flight_number" : "9823",
+            "airlineCode" : "AA",
+            "airline" : "American Airlines"
+       },
+       { 
+            "departureCity" : "SEA",
+            "destinationCity" : "BUE",
+            "departureDateTime" : "2019-10-19T20:00:00.000Z",
+            "flight_number" : "5234",
+            "airlineCode" : "AA",
+            "airline" : "American Airlines",
+            "gate": 88
+       }
+]
